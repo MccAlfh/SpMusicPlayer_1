@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>虹</string>
+		<key>filename</key>
+		<string>120125029.mp3</string>
+		<key>lrcname</key>
+		<string>120125029.lrc</string>
+		<key>singer</key>
+		<string>mankakyou</string>
+		<key>singerIcon</key>
+		<string>niji.jpg</string>
+		<key>icon</key>
+		<string>niji.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rich_BGM_21</string>
+		<key>filename</key>
+		<string>rich21.mp3</string>
+		<key>lrcname</key>
+		<string>rich21.lrc</string>
+		<key>singer</key>
+		<string>rich</string>
+		<key>singerIcon</key>
+		<string>rich21.jpg</string>
+		<key>icon</key>
+		<string>rich21.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rich_BGM_19</string>
+		<key>filename</key>
+		<string>rich19.mp3</string>
+		<key>lrcname</key>
+		<string>rich19.lrc</string>
+		<key>singer</key>
+		<string>rich4</string>
+		<key>singerIcon</key>
+		<string>rich19.jpg</string>
+		<key>icon</key>
+		<string>rich19.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Riich_BGM_08</string>
+		<key>filename</key>
+		<string>rich08.mp3</string>
+		<key>lrcname</key>
+		<string>rich08.lrc</string>
+		<key>singer</key>
+		<string>Rich4</string>
+		<key>singerIcon</key>
+		<string>Rich08.jpg</string>
+		<key>icon</key>
+		<string>Rich08.jpg</string>
+	</dict>
+</array>
+</plist>
